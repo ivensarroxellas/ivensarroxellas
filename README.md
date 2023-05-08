@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Ivens Arroxellas 👋
 
--🎓 Sou formado em engenharia mecatrônica na UNIT-AL desde 2019 <br>
+-🏙️ Sou de Maceió/AL <br>
+-🎓 Sou formado em engenharia mecatrônica na UNIT-AL <br>
 -📚 Atualmente estou estudando desenvolvimento WEB Full Stack na TRYBE
 
 ## 🌐 Socials:
