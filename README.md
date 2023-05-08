@@ -1,12 +1,13 @@
 ## Olá! Eu sou o Ivens Arroxellas 👋
 
 
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" img align="right" width="150" />
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" img align="right" width="200" />
 
 <div>                                                                                                                  
   -🏙️ Sou de Maceió/AL <br>
   -🎓 Sou formado em engenharia mecatrônica na UNIT-AL <br>
-  -📚 Atualmente estou estudando desenvolvimento WEB Full Stack na TRYBE
+  -📚 Atualmente estou estudando desenvolvimento WEB Full Stack na TRYBE <br>
+  -👨‍💻 Amante da tecnologia e jogos 
 </div>
 
 
