@@ -5,8 +5,8 @@
 
 <div>                                                                                                                  
   -🏙️ Sou de Maceió/AL <br>
-  -🎓 Sou formado em engenharia mecatrônica na UNIT-AL <br>
-  -📚 Atualmente estou estudando desenvolvimento WEB Full Stack na TRYBE <br>
+  -🎓 Formado em engenharia mecatrônica na UNIT-AL <br>
+  -📚 Formado em desenvolvimento WEB Full Stack na TRYBE <br>
   -👨‍💻 Amante da tecnologia e jogos 
 </div>
 
